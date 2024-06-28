@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911692709116",
+    "project_id": "otto-64f99",
+    "storage_bucket": "otto-64f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911692709116:android:a34b78c869681db3b9ab79",
+        "android_client_info": {
+          "package_name": "com.example.otto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911692709116-oa8d9scb5skkrvu661vtodj4uvccs35l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otto",
+            "certificate_hash": "1fcc89001a2ac23fd69e6f5f6126b0b0a1ff7dff"
+          }
+        },
+        {
+          "client_id": "911692709116-5vjn2f5tcnnqr0iuv3tcrh1fuufir2bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlK6AOXQ29G4r3RbS6Y9xuObuzKjqea08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911692709116-5vjn2f5tcnnqr0iuv3tcrh1fuufir2bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

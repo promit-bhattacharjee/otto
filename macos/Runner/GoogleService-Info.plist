@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>911692709116-o8f9ntde35bj7bg48es2cash5hfa3om4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.911692709116-o8f9ntde35bj7bg48es2cash5hfa3om4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>911692709116-oa8d9scb5skkrvu661vtodj4uvccs35l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDo45rdCTQwqOWEgPaxglZ5SADuysB7k24</string>
+	<key>GCM_SENDER_ID</key>
+	<string>911692709116</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.otto</string>
+	<key>PROJECT_ID</key>
+	<string>otto-64f99</string>
+	<key>STORAGE_BUCKET</key>
+	<string>otto-64f99.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:911692709116:ios:9a5649eee6ee89e4b9ab79</string>
+</dict>
+</plist>
